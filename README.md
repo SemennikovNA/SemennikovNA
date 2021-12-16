@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nikita Semennikov
+- 👀 I’m interested in developing mobile applications
+- 🌱 I'm currently learning SWIFT
+- 💞️ I'm looking for opportunities to change my boring job and become a developer
+- 📫 How to reach me: Telegram @SemennikovNA
