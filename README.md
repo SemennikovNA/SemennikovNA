@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikita Semennikov
+- 👋 Hi, I’m Nikita
 - 👀 I’m interested in developing mobile applications
 - 🌱 I'm currently learning SWIFT
 - 💞️ I'm looking for opportunities to change my boring job and become a developer
