@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **semennikovna@yandex.ru**
 
+- [![codewars](https://www.codewars.com/users/SemennikovNA/badges/small)](https://www.codewars.com/users/SemennikovNA) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikita semennikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita semennikov" height="30" width="40" /></a>
