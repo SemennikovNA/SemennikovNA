@@ -20,4 +20,4 @@
 - [![codewars](https://www.codewars.com/users/SemennikovNA/badges/small)](https://www.codewars.com/users/SemennikovNA)
 
   ## Сertificates
-  <img src="https://github.com/SemennikovNA/readme/blob/main/SM004.jpeg" height="280" width="400" alt="xcode logo"/>
+  <img src="https://github.com/SemennikovNA/SemennikovNA/blob/main/SM004.jpeg" height="280" width="400" alt="xcode logo"/>
