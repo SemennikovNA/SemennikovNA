@@ -1,5 +1,16 @@
 <h1 align="center">Hello, I'm Nikita</h1>
 <h3 align="center">iOS developer from Astana</h3>
+<h3 align="left">Stack: </h3>
+<h3 align="left">- Swift, C++</h3>
+<h3 align="left">- UIKit</h3>
+<h3 align="left">- Storyboard, AutoLayout, UI in code</h3>
+<h3 align="left">- MVP, MVC, MVVM</h3>
+<h3 align="left">- Core Data, Realm, UserDefaults</h3>
+<h3 align="left">- URLSession, REST API, JSON</h3>
+<h3 align="left">- Firebase</h3>
+<h3 align="left">- GCD, Async/Await</h3>
+<h3 align="left">- SPM, CocoaPods</h3>
+<h3 align="left">- Alamofire, SnapKit, Lottie, Eureka, SDWeblmage</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +31,4 @@
 - [![codewars](https://www.codewars.com/users/SemennikovNA/badges/small)](https://www.codewars.com/users/SemennikovNA)
 
   ## Сertificates
-  <img src="https://github.com/SemennikovNA/SemennikovNA/blob/main/SM004.jpeg" height="280" width="400" alt="xcode logo"/>
+  <img src="https://github.com/SemennikovNA/SemennikovNA/blob/main/SM004.jpeg" height="280" width="400"/>
