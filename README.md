@@ -15,6 +15,7 @@ Always happy to chat about technical topics or pick up something new.
 ### My stack:
 
 * Swift, C++
+* OOP, SOLID
 * UIKit
 * Storyboard, AutoLayout, UI in code
 * MVP, MVC, MVVM
@@ -39,6 +40,21 @@ Always happy to chat about technical topics or pick up something new.
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
 
 - [![codewars](https://www.codewars.com/users/SemennikovNA/badges/small)](https://www.codewars.com/users/SemennikovNA)
+
+---
+
+### My projects
+
+* Weather - https://github.com/SemennikovNA/Weather - MVC, UIKit, UI in code
+* My favorite places - https://github.com/SemennikovNA/My-favorite-places - MVC, UIKit, InterfaceBuilder, AVFoundation, CoreLocation, MapKit, RealmSwift, Cosmos
+
+---
+
+### Team projects
+
+* Rainbow - https://github.com/SemennikovNA/Rainbow - UIKit, MVC, AutoLayout programmaticaly, UserDefaults, iOS 15+
+* Movie Today - https://github.com/SemennikovNA/Movie-Today - UIKit, MVP, Kinopoisk API, AutoLayout programmaticaly, CoreData, SDWebImage, iOS 15+
+* Cleaner - https://github.com/Nikita06122002/GleamHS - In progres...
 
 ---
 
