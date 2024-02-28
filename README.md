@@ -46,8 +46,8 @@ Always happy to chat about technical topics or pick up something new.
 ### My projects
 
 * Weather - https://github.com/SemennikovNA/Weather - MVC, UIKit, UI in code
+* NASA - https://github.com/SemennikovNA/NASA - MVC, UIKit, UI in code, GCD, URLSession, NSCache, SnapKit, Pagination
 * My favorite places - https://github.com/SemennikovNA/My-favorite-places - MVC, UIKit, InterfaceBuilder, AVFoundation, CoreLocation, MapKit, RealmSwift, Cosmos
-
 ---
 
 ### Team projects
