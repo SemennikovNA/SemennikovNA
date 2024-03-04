@@ -45,17 +45,17 @@ Always happy to chat about technical topics or pick up something new.
 
 ### My projects
 
-* My favorite places - https://github.com/SemennikovNA/My-favorite-places - MVC, UIKit, InterfaceBuilder, AVFoundation, CoreLocation, MapKit, RealmSwift, Cosmos
-* Weather - https://github.com/SemennikovNA/Weather - MVC, UIKit, UI in code, UICollectionView, UITableView, URLSession
-* NASA - https://github.com/SemennikovNA/NASA - MVC, UIKit, UI in code, UICollectionView, UITableView, GCD, URLSession, NSCache, SnapKit, Pagination
+* [My favorite places](https://github.com/SemennikovNA/My-favorite-places) - MVC, UIKit, InterfaceBuilder, AVFoundation, CoreLocation, MapKit, RealmSwift, Cosmos
+* [Weather](https://github.com/SemennikovNA/Weather) - MVC, UIKit, UI in code, UICollectionView, UITableView, URLSession
+* [NASA](https://github.com/SemennikovNA/NASA) - MVC, UIKit, UI in code, UICollectionView, UITableView, GCD, URLSession, NSCache, SnapKit, Pagination
 
 ---
 
 ### Team projects
 
-* Rainbow - https://github.com/SemennikovNA/Rainbow - UIKit, MVC, AutoLayout programmaticaly, UserDefaults, iOS 15+
-* Movie Today - https://github.com/SemennikovNA/Movie-Today - UIKit, MVP, Kinopoisk API, AutoLayout programmaticaly, CoreData, SDWebImage, iOS 15+
-* Cleaner - https://github.com/Nikita06122002/GleamHS - In progres...
+* [Rainbow](https://github.com/SemennikovNA/Rainbow) - UIKit, MVC, AutoLayout programmaticaly, UserDefaults, iOS 15+
+* [Movie Today](https://github.com/SemennikovNA/Movie-Today) - UIKit, MVP, Kinopoisk API, AutoLayout programmaticaly, CoreData, SDWebImage, iOS 15+
+* [Cleaner](https://github.com/Nikita06122002/GleamHS) - In progres...
 
 ---
 
