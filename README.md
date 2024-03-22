@@ -19,12 +19,11 @@ Always happy to chat about technical topics or pick up something new.
 * UIKit
 * Storyboard, AutoLayout, UI in code
 * MVP, MVC, MVVM
-* Core Data, Realm, UserDefaults
+* Core Data, Realm, UserDefaults, Keychain
 * URLSession, REST API, JSON
-* Firebase
 * GCD, Async/Await
 * SPM, CocoaPods
-* Alamofire, SnapKit, Lottie, Eureka, SDWeblmage, SVGKit, Kingfisher
+* Firebase, Alamofire, SnapKit, Lottie, Eureka, SDWeblmage, SVGKit, Kingfisher
 
 ---
 
