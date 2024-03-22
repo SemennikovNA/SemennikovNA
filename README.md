@@ -24,7 +24,7 @@ Always happy to chat about technical topics or pick up something new.
 * Firebase
 * GCD, Async/Await
 * SPM, CocoaPods
-* Alamofire, SnapKit, Lottie, Eureka, SDWeblmage
+* Alamofire, SnapKit, Lottie, Eureka, SDWeblmage, SVGKit, Kingfisher
 
 ---
 
