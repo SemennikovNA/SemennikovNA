@@ -48,11 +48,5 @@ Always happy to chat about technical topics or pick up something new.
 
 ---
 
-### Сertificates
-
-  <img src="https://github.com/SemennikovNA/SemennikovNA/blob/main/SM004.jpeg" height="280" width="400"/>
-
----
-
 ## Contact me
 [LinkedIn](https://www.linkedin.com/in/nikita-semennikov-73a020253/ "https://www.linkedin.com/in/nikita-semennikov-73a020253/") | [Telegram](https://t.me/NikitaAndreevich10 "@NikitaAndreevich10") | [Email](mailto:semennikovna@yandex.ru "semennikovna@yandex.ru")
