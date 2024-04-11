@@ -36,6 +36,7 @@ Always happy to chat about technical topics or pick up something new.
 
 * [My favorite places](https://github.com/SemennikovNA/My-favorite-places) - MVC, UIKit, InterfaceBuilder, AVFoundation, CoreLocation, MapKit, RealmSwift, Cosmos
 * [NASA](https://github.com/SemennikovNA/NASA) - MVC, UIKit, UI in code, UICollectionView, UITableView, GCD, URLSession, NSCache, SnapKit, Pagination
+* [AI Image Generator](https://github.com/SemennikovNA/AIImageGenerator) - MVC, UIKit, UI in code, UICollectionView, GCD, UINotificationFeedbackGenerator, URLSession, Kingfisher, SnapKit, Lottie, EasyTipView
 * [Rick&Morty](https://github.com/SemennikovNA/Rick-Morty) - MVP, UIKit, UI in code, UICollectionViewCompositionalLayout, UICollectionViewDiffableDataSource, UIPopOverViewController, GCD, URLSession, SDWebImage, Pagination
 ---
 
