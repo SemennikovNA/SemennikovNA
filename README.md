@@ -23,7 +23,7 @@ Always happy to chat about technical topics or pick up something new.
 * URLSession, REST API, JSON
 * GCD, Async/Await
 * SPM, CocoaPods
-* Firebase, Alamofire, SnapKit, Lottie, Eureka, SDWeblmage, SVGKit, Kingfisher
+* Firebase, Alamofire, SnapKit, Lottie, Eureka, SDWeblmage, SVGKit, Kingfisher, EasyTipView
 * Figma, Sketch
 
 ---
@@ -35,9 +35,8 @@ Always happy to chat about technical topics or pick up something new.
 ### My projects
 
 * [My favorite places](https://github.com/SemennikovNA/My-favorite-places) - MVC, UIKit, InterfaceBuilder, AVFoundation, CoreLocation, MapKit, RealmSwift, Cosmos
-* [Weather](https://github.com/SemennikovNA/Weather) - MVC, UIKit, UI in code, UICollectionView, UITableView, URLSession
 * [NASA](https://github.com/SemennikovNA/NASA) - MVC, UIKit, UI in code, UICollectionView, UITableView, GCD, URLSession, NSCache, SnapKit, Pagination
-
+* [Rick&Morty](https://github.com/SemennikovNA/Rick-Morty) - MVP, UIKit, UI in code, UICollectionViewCompositionalLayout, UICollectionViewDiffableDataSource, UIPopOverViewController, GCD, URLSession, SDWebImage, Pagination
 ---
 
 ### Team projects
