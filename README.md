@@ -9,9 +9,9 @@ Always happy to chat about technical topics or pick up something new.
 ### My stack:
 
 * Swift
-*  UIKit
-*  AVFoundation
-* MVP, MVVM
+* UIKit, SwiftUI
+* AVFoundation
+* MVP, MVVM + Coordinator
 * ООП, SOLID, KISS, DRY, YAGNI
 * Auto Layout, SnapKit
 * UserDefaults, Keychain, FileManager, CoreData, Realm
@@ -20,7 +20,7 @@ Always happy to chat about technical topics or pick up something new.
 * MapKit, CLLocation
 * Grand Central Dispatch, Operation, NSThread
 * ARC
-* Alamofire, Firebase, Kingfisher, SVGKit, SDWebImage, Lottie 
+* Alamofire, Firebase, Kingfisher, SVGKit, SDWebImage, Lottie, RSwift
 * Git
 * Jira, Trello, Kaiten
 * Figma, Sketch
