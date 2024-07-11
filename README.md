@@ -1,8 +1,6 @@
 # Hello✌🏼
 
-In the process of studying and working, I actively develop technical skills and soft skills, striving for mastery in new technologies and solving complex problems. I am open to feedback and value teamwork, seeing criticism as a tool for personal growth. I work tirelessly on myself, striving to become a valuable member of the team, constantly improving my skills.
-
-Always happy to chat about technical topics or pick up something new.
+I have application development experience like independently and in a team. I like challenging tasks that help develop my professional skills. I have excellent time management management, I show persistence in achieving goals, I value teamwork and I can find non-standard solutions. Always I take responsibility for the result and am ready to learning. Open to feedback, I perceive criticism as a personal tool growth. I always strive for self-improvement, constantly developing my professional skills and improving my knowledge.
 
 ---
 
@@ -15,16 +13,20 @@ Always happy to chat about technical topics or pick up something new.
 * ООП, SOLID, KISS, DRY, YAGNI
 * Auto Layout, SnapKit
 * UserDefaults, Keychain, FileManager, CoreData, Realm
-* URLSession, NSCache
+* URLSession, Alamofire, Moya
 * JSON, REST API
-* MapKit, CLLocation
-* Grand Central Dispatch, Operation, NSThread
+* Mapbox, MapKit, CLLocation
+* Dependency Injection
+* Design Patterns
 * ARC
-* Alamofire, Firebase, Kingfisher, SVGKit, SDWebImage, Lottie, RSwift
+* GCD, async/await Operation, NSThread, pthread
+* Firebase, OneSignal
+* NSCache, Kingfisher, SVGKit, SDWebImage, Lottie, RSwift
+* CocoaPods, SPM
 * Git
-* Jira, Trello, Kaiten
 * Figma, Sketch
-  
+* Jira, Trello, Kaiten
+
 ---
 
 ## Contact me
