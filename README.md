@@ -9,7 +9,7 @@ I have application development experience like independently and in a team. I li
 * Swift
 * UIKit, SwiftUI
 * AVFoundation
-* MVP, MVVM + Coordinator
+* MVP, MVVM + Coordinator, TCA
 * ООП, SOLID, KISS, DRY, YAGNI
 * Auto Layout, SnapKit
 * UserDefaults, Keychain, FileManager, CoreData, Realm
@@ -19,7 +19,7 @@ I have application development experience like independently and in a team. I li
 * Dependency Injection
 * Design Patterns
 * ARC
-* GCD, async/await Operation, NSThread, pthread
+* GCD, async/await, NSOperation, NSThread, pthread
 * Firebase, OneSignal
 * NSCache, Kingfisher, SVGKit, SDWebImage, Lottie, RSwift
 * CocoaPods, SPM
