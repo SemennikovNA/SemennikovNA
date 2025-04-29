@@ -11,16 +11,16 @@ I have application development experience like independently and in a team. I li
 * AVFoundation
 * MVP, MVVM + Coordinator, TCA
 * ООП, SOLID, KISS, DRY, YAGNI
+* Dependency Injection
+* Design Patterns
 * Auto Layout, SnapKit
 * UserDefaults, Keychain, FileManager, CoreData, Realm
 * URLSession, Alamofire, Moya
 * JSON, REST API
 * Mapbox, MapKit, CLLocation
-* Dependency Injection
-* Design Patterns
 * ARC
 * GCD, async/await, NSOperation, NSThread, pthread
-* Firebase, OneSignal
+* Firebase, Apphud
 * NSCache, Kingfisher, SVGKit, SDWebImage, Lottie, RSwift
 * CocoaPods, SPM
 * Git
